@@ -1,0 +1,7 @@
+[package]
+name = "webdip-parser" # the name of the package
+version = "0.1.0"    # the current version, obeying semver
+authors = ["Jakob <jakob@weisbl.at>"]
+
+[dependencies]
+nom = "5.0.1"
